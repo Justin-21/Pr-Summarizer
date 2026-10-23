@@ -10,3 +10,4 @@ An AI-powered GitHub pull request summarizer built with Next.js, TypeScript, and
 4. Run `npm run dev`, then open `http://localhost:3000`.
 
 Only public GitHub pull requests are supported. The app sends the PR title, description, and up to 45,000 characters of patch text to OpenRouter's `openai/gpt-4o-mini` model for analysis. It does not store submitted code.
+# Pr-Summarizer
